@@ -1,2 +1,2 @@
 Yevgeniy Puhach
-https://www.codecademy.com/users/Aneginevgen/achievements
+HTML CSS Basics: https://www.codecademy.com/users/Aneginevgen/achievements
